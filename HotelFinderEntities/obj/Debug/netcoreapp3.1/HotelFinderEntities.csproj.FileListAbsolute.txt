@@ -1,0 +1,9 @@
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\bin\Debug\netcoreapp3.1\HotelFinderEntities.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\bin\Debug\netcoreapp3.1\HotelFinderEntities.dll
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\bin\Debug\netcoreapp3.1\HotelFinderEntities.pdb
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\obj\Debug\netcoreapp3.1\HotelFinderEntities.csprojAssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\obj\Debug\netcoreapp3.1\HotelFinderEntities.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\obj\Debug\netcoreapp3.1\HotelFinderEntities.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\obj\Debug\netcoreapp3.1\HotelFinderEntities.dll
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\obj\Debug\netcoreapp3.1\HotelFinderEntities.pdb
+C:\Users\furka\OneDrive\Masaüstü\Program_Denemeleri\HotelFinder\HotelFinderEntities\obj\Debug\netcoreapp3.1\HotelFinderEntities.csproj.CoreCompileInputs.cache
